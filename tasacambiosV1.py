@@ -23,4 +23,3 @@ while moneda_cripto != "" and moneda_cripto.isalpha():#método para comprobar va
 
     #ej 4: controlar input vacio, q no realize consulta si el input está vacio
     moneda_cripto = input ("Ingrese una criptomoneda conocida").upper()
-
